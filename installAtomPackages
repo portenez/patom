@@ -16,6 +16,7 @@ apm install git-time-machine
 apm install terminal-plus
 apm install minimap
 apm install markdown-preview-plus
+apm install split-diff
 
 # js development
 apm install react
