@@ -19,6 +19,7 @@ apm install minimap
 apm install markdown-preview-plus
 apm install split-diff
 apm install environment
+apm install minimap-git-diff
 
 # js development
 apm install react
