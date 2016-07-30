@@ -20,6 +20,8 @@ apm install markdown-preview-plus
 apm install split-diff
 apm install environment
 apm install minimap-git-diff
+apm install git-control
+apm install git-blame
 
 # js development
 apm install react
