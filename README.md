@@ -2,9 +2,8 @@
 
 Tips tricks, and my preferences for atom
 
-## Install plugins
 
-## Option 1: Clonning repo
+## Installing plugins
 
 - Clone
 - then run from repo
