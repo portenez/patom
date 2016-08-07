@@ -29,7 +29,7 @@ Install by running `./editor.bash`
 |------------------|--------------------------------------------------------------------|
 | [terminal-plus](https://atom.io/packages/terminal-plus)    | terminal from within atom |
 | [minimap](https://atom.io/packages/minimap)          | zoomed out view of your code |
-| [atom-fuzzy-grep](https://atom.io/packages/atom-fuzzy-grep)  | fuzzy grep all your files (requires `ag`) |
+| [atom-fuzzy-grep](https://atom.io/packages/atom-fuzzy-grep)  | fuzzy grep all your files (requires [ag](https://github.com/ggreer/the_silver_searcher)) |
 | [split-diff](https://atom.io/packages/split-diff)       | compare 2 files using atom |
 | [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus) | use atom to render your markdown |
 | [environment](https://atom.io/packages/environment) | make sure that atom opens with it's env setup on the Mac |
