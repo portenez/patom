@@ -24,12 +24,12 @@ Install by running `./editor.bash`
 
 | Plugin           | what it gives you                                                  |
 |------------------|--------------------------------------------------------------------|
-| terminal-plus    | terminal from within atom |
-| minimap          | zoomed out view of your code |
-| atom-fuzzy-grep  | fuzzy grep all your files (requires `ag`) |
-| split-diff       | compare 2 files using atom |
-| markdown-preview-plus | use atom to render your markdown |
-| environment | make sure that atom opens with it's env setup on the Mac |
+| [terminal-plus](https://atom.io/packages/terminal-plus)    | terminal from within atom |
+| [minimap](https://atom.io/packages/minimap)          | zoomed out view of your code |
+| [atom-fuzzy-grep](https://atom.io/packages/atom-fuzzy-grep)  | fuzzy grep all your files (requires `ag`) |
+| [split-diff](https://atom.io/packages/split-diff)       | compare 2 files using atom |
+| [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus) | use atom to render your markdown |
+| [environment](https://atom.io/packages/environment) | make sure that atom opens with it's env setup on the Mac |
 
 ### Git
 
@@ -65,6 +65,6 @@ Instal by running `./js.bash`
 
 | Plugin                 | what it gives you                                                  |
 |------------------------|--------------------------------------------------------------------|
-| react                  | react support |
-| linter-eslint          | apply es-lint to your js files |
-| automecomplete-modules | atom will help you when doing `import`s |
+| [react](https://atom.io/packages/react)                  | react support |
+| [linter-eslint](https://atom.io/packages/linter-eslint)          | apply es-lint to your js files |
+| [autocomplete-modules](https://atom.io/packages/autocomplete-modules) | atom will help you when doing `import`s |
