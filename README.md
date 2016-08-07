@@ -18,6 +18,11 @@ These are the plugins I use on a daily basis. To install all of them run `./all.
 
 ## Categories
 
+- [Editor](#editor)
+- [Git](#git)
+- [Look and Feel](#look-and-feel)
+- [JS](#js)
+
 ### Editor
 
 Install by running `./editor.bash`
