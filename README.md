@@ -8,11 +8,9 @@ These are the plugins I use on a daily basis. To install all of them run `./all.
 
 ## Install
 
-1. Clone
-1. Cd into repo
-1. run:
-
 ```bash
+git clone https://github.com/portenez/patom.git
+cd patom
 ./all.bash
 ```
 
